@@ -1,7 +1,6 @@
 # VERDICT Plugin for Open Source AADL Tool Environment
 
-![VERDICT Main Workflow](https://github.com/ge-high-assurance/VERDICT/actions/workflows/main.yml/badge.svg)
-![VERDICT Release Workflow](https://github.com/ge-high-assurance/VERDICT/actions/workflows/release.yml/badge.svg)
+![VERDICT Workflow](https://github.com/ge-high-assurance/VERDICT/actions/workflows/main.yml/badge.svg)
 
 This repository contains two update sites (verdict-dev,
 verdict-latest) for the VERDICT plugin.  Each subdirectory in this
